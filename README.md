@@ -1,5 +1,3 @@
-[beritaterkini.html](https://github.com/user-attachments/files/24218367/beritaterkini.html)
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
